@@ -1,0 +1,4 @@
+name: Enthrallments
+version: '1.0-SNAPSHOT'
+main: org.masonio.enthrallment.EnthrallmentsPlugin
+api-version: '1.21'
